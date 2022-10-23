@@ -1,0 +1,24 @@
+[
+    {
+        "name":"Fatih Hamarat",
+        "department":"Bilişim",
+        "salary":40000
+    },
+    {
+        "name":"Tuğçe Hamarat",
+        "department":"Bilişim",
+        "salary":30000
+    },
+    {
+        "name":"Süleyman Akgün",
+        "department":"Bilişim",
+        "salary":35000
+    },
+    {
+        "name":"Zübeyir Eraslan",
+        "department":"Bilişim",
+        "salary":45000
+    }
+
+
+]
